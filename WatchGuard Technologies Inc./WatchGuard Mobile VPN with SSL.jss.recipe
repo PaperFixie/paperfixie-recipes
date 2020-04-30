@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of WatchGuard Mobile VPN with SSL and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.WatchGuardMobileVPNwithSSL</string>
+	<string>paperfixie.jss.WatchGuardMobileVPNwithSSL</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
